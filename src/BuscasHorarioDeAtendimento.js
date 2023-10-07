@@ -1,4 +1,4 @@
-const HorariosDeAtendimentoService = require('./HorariosDeAtendimentoService');
+const HorariosDeAtendimentoService = require('../test/HorariosDeAtendimentoService');
 
 class BuscasHorarioDeAtendimento {
     constructor() {
