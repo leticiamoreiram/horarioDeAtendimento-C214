@@ -23,12 +23,12 @@ O projeto testa uma classe responsável por popular uma página Web com informa�
 Para executar os testes unitários e mock, siga os passos abaixo:
 
 1. Certifique-se de ter o Node.js instalado em seu sistema.
-2. Clone este repositório em seu computador: `git clone https://github.com/seu-usuario/nome-do-repositorio.git`
-3. Navegue até o diretório do projeto: `cd nome-do-repositorio`
+2. Clone este repositório em seu computador: `git clone https://github.com/leticiamoreiram/horarioDeAtendimento-C214.git`
+3. Navegue até o diretório do projeto: `cd horarioDeAtendimento-C214`
 4. Instale as dependências usando npm ou yarn: `npm install` ou `yarn install`
 5. Execute os testes unitários: `npm test`
 
-## Autoras
+## Alunas
 
 - *Ana Luiza Martins*
 - *Letícia Moreira Mendes*
